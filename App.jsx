@@ -17,8 +17,8 @@ import {
   ELEMENT_PROPERTIES,
   MATERIAL_PRESETS,
   ECM_LITERATURE_RECORDS
-} from './data/ecmLiteratureDataset.js';
-import { runEcmPrediction } from './engine/alloyPhysicsAndPredictor.js';
+} from './ecmLiteratureDataset.js';
+import { runEcmPrediction } from './alloyPhysicsAndPredictor.js';
 
 const ELEMENT_LIST = Object.keys(ELEMENT_PROPERTIES);
 
