@@ -1,4 +1,4 @@
-import { ELEMENT_PROPERTIES, ECM_LITERATURE_RECORDS } from '../data/ecmLiteratureDataset.js';
+import { ELEMENT_PROPERTIES, ECM_LITERATURE_RECORDS } from './ecmLiteratureDataset.js';
 
 const FARADAY_C_PER_MOL = 96485.33212;
 
