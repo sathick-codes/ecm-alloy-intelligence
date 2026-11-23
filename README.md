@@ -1,2 +1,2 @@
 # ecm-alloy-intelligence
-AI-driven Alloy Intelligence &amp; Electrochemical Machining (ECM) parameter prediction web app grounded in peer-reviewed literature and Faraday dissolution physics.
+Literature-grounded ECM parameter predictor and Faraday/alloy descriptor calculator for single metals, aerospace alloys, and compositionally modified alloys.
